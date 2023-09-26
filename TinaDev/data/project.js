@@ -6,8 +6,17 @@ import MobileBettingPlatform from '~/assets/images/projects/mobileapp.png'
 import WeatherApp from '~/assets/images/projects/weatherapp.png'
 import RandomPassWordGenerator from '~/assets/images/projects/password-generator.png'
 import ImageGallery from '~/assets/images/projects/imagegallery.png'
+import Movie from '~/assets/images/projects/movie.png'
 
 export const projects = [
+  {
+    name: 'Movie App',
+    description: '',
+    image: Movie,
+    link: 'https://hng-x-stage-two-qt5i-xb7w7tnk7-tinabals.vercel.app/',
+    stack: ['React', 'CSS'],
+    imageAlt: 'Movie',
+  },
   {
     name: 'Betting Platform',
     description: '',
