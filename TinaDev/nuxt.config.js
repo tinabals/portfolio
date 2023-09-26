@@ -125,7 +125,7 @@ export default {
   ],
 
   sitemap: {
-    hostname: 'https://temitope.dev',
+    hostname: 'https://portfolio-seven-sand-60.vercel.app/',
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
