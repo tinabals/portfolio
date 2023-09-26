@@ -43,11 +43,11 @@ export default {
 
       { content: 'https://temitope.dev/', property: 'og:url' },
       {
-        content: 'Adegoke Temitope - Front-End Developer from Akure, Nigeria',
+        content: 'Balogun Damilola- Front-End Developer from Ibadan, Nigeria',
         property: 'og:title',
       },
       {
-        content: 'Front-End Developer from Akure. Nigeria',
+        content: 'Front-End Developer from Ibadan. Nigeria',
         property: 'og:description',
       },
       {
@@ -56,7 +56,7 @@ export default {
       },
       {
         property: 'og:image:alt',
-        content: 'Adegoke Temitope - Front-End Developer from Akure, Nigeria',
+        content: ' Balogun Damilola- Front-End Developer from Ibadan, Nigeria',
       },
       { property: 'og:site_name', content: 'Damilola Balogun' },
       { property: 'og:type', content: 'website' },

@@ -102,7 +102,7 @@ export default {
   },
   head() {
     return {
-      title: `${this.article.title} | Adegoke Temitope - Front-End Developer from Akure, Nigeria`,
+      title: `${this.article.title} | Balogun Damilola - Front-End Developer from Ibadan, Nigeria`,
       meta: [
         {
           hid: 'description',
